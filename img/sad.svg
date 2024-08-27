@@ -1,0 +1,15 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circle for the face -->
+  <circle cx="100" cy="100" r="80" stroke="black" stroke-width="4" fill="yellow" />
+  
+  <!-- Left eye -->
+  <circle cx="70" cy="70" r="10" stroke="black" stroke-width="2" fill="white" />
+  <circle cx="70" cy="70" r="5" fill="black" />
+  
+  <!-- Right eye -->
+  <circle cx="130" cy="70" r="10" stroke="black" stroke-width="2" fill="white" />
+  <circle cx="130" cy="70" r="5" fill="black" />
+  
+  <!-- Mouth -->
+  <path d="M 60 140 Q 100 100 140 140" stroke="black" stroke-width="4" fill="transparent" />
+</svg>

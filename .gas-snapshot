@@ -1,0 +1,8 @@
+TestFaceNFT:testFlipFaceFlipsTheFace() (gas: 108117)
+TestFaceNFT:testFlipFaceRevertsOnInValidAuthorizationOfToken() (gas: 91486)
+TestFaceNFT:testImageURIS() (gas: 267762)
+TestFaceNFT:testMintNFTRevertsOnInvalidSender() (gas: 9202)
+TestFaceNFT:testMintNFTmintsTokenToSender() (gas: 88268)
+TestFaceNFT:testNFTNameAndSymbolIsSet() (gas: 18432)
+TestFaceNFT:testTokenCounterInitailizewithValueZero() (gas: 10487)
+TestFaceNFT:testTokenURIRevertsOnInValidToken() (gas: 15548)
